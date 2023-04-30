@@ -1,0 +1,68 @@
+.container{
+   border:3px solid green
+}
+
+.row{
+   border:3px solid aqua
+}
+.box-1 {
+   height: 250px;
+   background-color: yellow;
+}
+
+.box-2 {
+    height: 250px;
+    background-color: red;
+ }
+
+ .box-3 {
+    height: 250px;
+    background-color: green;
+ }
+
+ .box-4 {
+   height: 250px;
+   background-color: blue;
+}
+
+
+.box1 {
+    background-color: yellow;
+}
+
+.box2 {    
+    background-color: pink;
+ }
+
+ .box3 {    
+    background-color: orange;
+ }
+
+ .box4 {   
+   background-color: blue;
+}
+
+.box5 {   
+   background-color: blueviolet;
+}
+
+
+.yellow {
+   background-color: yellow;
+}
+
+.pink {    
+   background-color: pink;
+}
+
+.orange {    
+   background-color: orange;
+}
+
+.blue {   
+  background-color: blue;
+}
+
+.violet {   
+  background-color: blueviolet;
+}
